@@ -1,7 +1,7 @@
 # Simulation and synthetic data in Time Series
 
-**Published:** 2025-01-20
-**Medium:** [https://medium.com/@kyle-t-jones/simulation-and-synthetic-data-in-time-series-950f1582a2a2](https://medium.com/@kyle-t-jones/simulation-and-synthetic-data-in-time-series-950f1582a2a2)
+Published: 2025-01-20
+Medium: [https://medium.com/@kyle-t-jones/simulation-and-synthetic-data-in-time-series-950f1582a2a2](https://medium.com/@kyle-t-jones/simulation-and-synthetic-data-in-time-series-950f1582a2a2)
 
 ## About
 
