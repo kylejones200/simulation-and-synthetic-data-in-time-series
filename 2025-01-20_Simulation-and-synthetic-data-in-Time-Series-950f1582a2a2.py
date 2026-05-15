@@ -8,8 +8,8 @@ from statsmodels.tsa.arima.model import ARIMA
 from statsmodels.tsa.arima_process import ArmaProcess
 import matplotlib.pyplot as plt
 import numpy as np
-
 np.random.seed(42)
+
 white_noise = np.random.normal(loc=0, scale=1, size=500)
 # Plot white noise
 plt.figure(figsize=(10, 6))
