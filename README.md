@@ -11,14 +11,7 @@ Synthetic datasets with known characteristics allow us to test how well models p
 
 We can use simulation to test the robustness of models against noise, missing values, and outliers, which are common in real-world data. And we can see how well different models perform on the same data (which has seasonality, trend, and noise that we created).
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
